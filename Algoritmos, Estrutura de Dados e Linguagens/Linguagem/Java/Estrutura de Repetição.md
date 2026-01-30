@@ -1,6 +1,6 @@
-## {{title}}
+## Estrutura de Repetição em Java
 
-{{date}} {{time}}
+2026-01-29 13:48
 
 **Subjects**: 
 
